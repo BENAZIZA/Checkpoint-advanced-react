@@ -1,0 +1,23 @@
+table
+{
+	border: solid 3px black;
+	width: 50%;
+	margin: auto;
+	height: 50vh;
+	position: relative;
+	top: 60px;
+}
+th
+{
+	border: solid 2px black;
+	text-align: center;
+	background-color: blue;
+	color: white;
+
+}
+td
+{
+		border: solid 1px black;
+
+
+}
